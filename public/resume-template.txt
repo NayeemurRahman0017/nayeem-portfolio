@@ -1,0 +1,30 @@
+NAYEEM — RESUME TEMPLATE
+
+Replace this file with your actual resume before publishing your portfolio.
+
+Full name: NAYEEM [replace with your full name]
+Professional title: Web Developer
+Email: your.email@example.com
+Phone: +880 1XXX-XXXXXX
+Location: Bangladesh
+
+PROFESSIONAL SUMMARY
+Write a short introduction about your experience, interests, and career goals.
+
+SKILLS
+Add your actual technical skills and proficiency.
+
+EDUCATION
+Qualification:
+Institution:
+Year:
+
+PROJECTS
+Add your strongest projects, technology stack, and working links.
+
+EXPERIENCE
+Add relevant work, internship, freelance, or volunteer experience.
+
+SOCIAL LINKS
+GitHub: https://github.com/yourusername
+LinkedIn: https://linkedin.com/in/yourusername
