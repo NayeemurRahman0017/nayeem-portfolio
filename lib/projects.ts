@@ -16,23 +16,23 @@ export const projects: Project[] = [
     improvements: ["Add real-time price tracking", "Improve product search and filters", "Add user accounts and wishlist features"]
   },
   {
-    slug: "fit-log", title: "FitLog", eyebrow: "Fitness tracking dashboard", category: "Frontend",
-    description: "A clean, motivating dashboard for tracking workouts, routines, and progress in a simple and organized way.",
-    longDescription: "FitLog is a fitness app concept designed to help users monitor workouts and stay consistent with their routine. It emphasizes clarity, motivation, and accessible design for daily activity tracking.",
-    stack: ["Next.js", "TypeScript", "Tailwind CSS"], gradient: "violet", symbol: "✓",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=80",
-    liveUrl: "https://fit-log-five-orpin.vercel.app", repoUrl: "https://github.com/NayeemurRahman0017",
-    challenge: "The biggest challenge was creating a fitness dashboard that felt motivating and modern while still staying simple and easy to read. I had to organize workout summaries, routines, and progress indicators in a way that gave users fast insight without overwhelming them with too much information. Designing for clarity, positive user feedback, and responsive behavior was essential for making the interface feel useful in everyday use.",
-    improvements: ["Add authentication and personal profiles", "Integrate exercise analytics", "Create progress charts and streak tracking"]
+    slug: "pizza-hub", title: "PizzaHub", eyebrow: "Pizza ordering platform", category: "Frontend",
+    description: "An appetizing food-ordering interface for browsing pizza menus, exploring categories, and ordering from local restaurants.",
+    longDescription: "PizzaHub is a frontend pizza ordering app built to make discovering local restaurants and exploring menus feel quick and enjoyable. It pairs a bold hero section with featured menu items, category browsing, and a simple three-step ordering flow. Sign-in and sign-up screens, a dark mode toggle, and responsive layouts round out the experience so it stays consistent from phone to desktop.",
+    stack: ["Next.js", "React", "Tailwind CSS", "lucide-react"], gradient: "orange", symbol: "◎",
+    image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+    liveUrl: "https://pizzahub-y5rh.vercel.app", repoUrl: "https://github.com/NayeemurRahman0017",
+    challenge: "The main challenge was designing a food-ordering experience that felt appetizing and fast without overwhelming the visitor. The menu spans several categories, so I had to organize featured items, category cards, and the ordering steps in a way that kept browsing intuitive at every screen size. Balancing a strong visual identity with clear navigation, dark mode support, and separate authentication screens called for careful layout planning and a consistent design system across every section.",
+    improvements: ["Add a working cart and checkout flow", "Integrate live menu data from an API", "Add order tracking and status updates"]
   },
   {
-    slug: "dev-stack", title: "DEV-STACK", eyebrow: "Creative portfolio landing page", category: "Web design",
-    description: "A vibrant landing page concept crafted to present products, services, and visual identity in a polished, modern way.",
-    longDescription: "DEV-STACK is a visually rich landing page designed to highlight brand value through bold messaging, modern layout, and engaging visual sections. It focuses on responsiveness and a memorable first impression for visitors.",
-    stack: ["React", "CSS", "Responsive UI"], gradient: "orange", symbol: "✳",
-    image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80",
-    liveUrl: "https://zippy-smakager-533ac5.netlify.app/", repoUrl: "https://github.com/NayeemurRahman0017",
-    challenge: "This project required balancing visual appeal with usability. I wanted the landing page to feel polished and engaging, but it also needed to remain easy to navigate on smaller screens and maintain a strong flow of information. Creating a compelling visual hierarchy while keeping the layout responsive and professional was the main challenge, especially when designing for different device sizes and content blocks.",
-    improvements: ["Add project gallery and case studies", "Introduce animations and motion effects", "Expand to include multi-page product sections"]
+    slug: "shoboj-sathi", title: "ShobujShathi", eyebrow: "Volunteer & community events", category: "Frontend",
+    description: "A community platform for discovering volunteer events, connecting with people, and turning small acts of kindness into real impact.",
+    longDescription: "ShobujShathi is a frontend community platform designed to help people find meaningful service events and get involved as volunteers. It opens with a mission-driven hero and live impact stats, then moves through feature highlights, searchable event listings, a photo gallery of past activities, and a newsletter signup. A light and dark theme, responsive layouts, and clear calls to action keep the experience welcoming across devices.",
+    stack: ["Next.js", "React", "Tailwind CSS", "lucide-react"], gradient: "violet", symbol: "♥",
+    image: "https://shoboj-sathi-client.vercel.app/images/hero/Hero%20Banner.png",
+    liveUrl: "https://shoboj-sathi-client.vercel.app", repoUrl: "https://github.com/NayeemurRahman0017",
+    challenge: "The biggest challenge was presenting a large amount of content, including impact stats, feature cards, searchable event listings, and a photo gallery, while keeping the interface calm and easy to scan. Event discovery needed both search and filtering to stay useful as the list grows, so I focused on clear hierarchy and a layout that adapts from a single column on mobile to a multi-column grid on desktop. Maintaining a consistent look across light and dark themes, with readable typography and accessible calls to action, was essential for a site built around trust and community.",
+    improvements: ["Add event creation and volunteer registration", "Add volunteer profiles and impact tracking", "Integrate email notifications for new events"]
   }
 ];
